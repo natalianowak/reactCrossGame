@@ -1,0 +1,23 @@
+.pole{
+    height: 100px ;
+    width: 100px;
+    color: white;
+    border: 1px solid black;
+
+}
+table{
+    border-color: white;
+    color: #0b97c4;
+}
+#p0{
+    border-top-left-radius:5px;
+}
+#p2{
+    border-top-right-radius:5px;
+}
+#p6{
+    border-bottom-left-radius:5px;
+}
+#p8{
+    border-bottom-right-radius:5px;
+}

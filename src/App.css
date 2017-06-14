@@ -1,0 +1,37 @@
+.App {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: center;
+  background-color:whitesmoke;
+}
+.App-intro {
+  font-size: large;
+}
+.App-chooseSymbol{
+  margin: auto;
+  background-color: grey;
+  width: 300px;
+  height: 320px;
+  text-align: center;
+  font-weight: bold;
+  border-radius: 10px;
+}
+.btn-outline-info {
+  font-weight: bold;
+  margin-right: auto;
+  margin-left: auto;
+  height:30px;
+  width: 30px;
+}
+
+.App-line{
+  padding-top: 20px;
+  height: 50px;
+  width:250px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+  border-bottom: 1px solid black;
+}
+
+
